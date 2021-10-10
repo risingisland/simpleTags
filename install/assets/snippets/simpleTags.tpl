@@ -1,7 +1,7 @@
 /**
  * simpleTags
  *
- * formats the tags for the current page
+ * Output tags in simple format with the ability to modify separator.
  *
  * @category	snippet
  * @internal	@modx_category Navigation
